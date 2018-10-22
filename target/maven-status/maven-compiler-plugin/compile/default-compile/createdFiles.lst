@@ -1,0 +1,3 @@
+io\pivotal\geode\beacon\rest\Application.class
+io\pivotal\geode\beacon\rest\BeaconController.class
+io\pivotal\geode\beacon\rest\Response.class
